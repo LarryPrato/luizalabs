@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS conexoes;
+
+CREATE TABLE conexoes (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    usuario_1 TEXT NOT NULL,
+    usuario_2 TEXT NOT NULL
+);
