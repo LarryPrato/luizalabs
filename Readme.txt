@@ -33,6 +33,7 @@ O app foi desenvolvido seguindo uma divisão do tipo estrutural da seguinte form
    |     |     |- page2.html
    |     |     |- page3.html
    |     |     |- page4.html
+   |     |     |- table.html
    |     |     |- database.html
    |     |     |- 404.html
    |- run.py
