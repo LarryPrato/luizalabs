@@ -13,7 +13,6 @@ CONTENTS OF THIS FILE
     - Pandas
     - Matplotlib
 
-
 3-. Estrutura do projeto
 O app foi desenvolvido seguindo uma divisão do tipo estrutural da seguinte forma:
    + projeto
